@@ -1,22 +1,12 @@
 # Quick Description
 
+## The formation configuration is described in [Alexandre S Brandao et al. “A multi-layer control scheme for a centralized uav formation”. In:
+2014 International Conference on Unmanned Aircraft Systems (ICUAS). IEEE. 2014,
+pp. 1181–1187.]
 
-
-
-
-
-@inproceedings{brandao2014multi,
-  title={A multi-layer control scheme for a centralized uav formation},
-  author={Brandao, Alexandre S and Barbosa, Jo{\~a}o PA and Mendoza, Valentin and Sarcinelli-Filho, Mario and Carelli, Ricardo},
-  booktitle={2014 International Conference on Unmanned Aircraft Systems (ICUAS)},
-  pages={1181--1187},
-  year={2014},
-  organization={IEEE}
-}
-@online{WinNT,
-  author = {Yiren Lu, Myles Cai, Wudao Ling, Xuanyu Zhou},
-  title = {{Dynamic} Dynamic Modeling, Control  and Simulation of an Autonomous Quadrotor.},
-  year = 2017,
-  url = {https://github.com/yrlu/quadrotor},
-  urldate = {2017}
-}
+## The formation configuration has two levels: 
+			  * Control the formation shape (stabilizing the relative distances between agents).
+        * Trajectory tracking control for each robot (following the predefined path).
+        
+### In the simulation below we considered a Hover like system  --->  Applying a Proportional and derivative controller [Wudao Ling Xuanyu Zhou Yiren Lu Myles Cai. Dynamic Dynamic Modeling, Control and Simulation of an Autonomous Quadrotor.. 2017. url: https://github.com/yrlu/quadrotor (visited on 2017)].
+		
