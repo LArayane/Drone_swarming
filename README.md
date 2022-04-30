@@ -1,6 +1,6 @@
 # Quick Description
 
-###### The formation configuration is described in [Alexandre S Brandao et al. “A multi-layer control scheme for a centralized uav formation”. In: 2014 International Conference on Unmanned Aircraft Systems (ICUAS). IEEE. 2014, pp. 1181–1187.]
+###### The configuration of the formation control is described in [Alexandre S Brandao et al. “A multi-layer control scheme for a centralized uav formation”. In: 2014 International Conference on Unmanned Aircraft Systems (ICUAS). IEEE. 2014, pp. 1181–1187.]
 
 ###### The formation configuration has two levels: 
 	    1- Control the formation shape (stabilizing the relative distances between agents).
