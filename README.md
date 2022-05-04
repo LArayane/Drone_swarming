@@ -15,8 +15,11 @@
 ###### In the simulation below we considered a Hover like system  --->  Applying a Proportional and derivative controller [Wudao Ling Xuanyu Zhou Yiren Lu Myles Cai. Dynamic Dynamic Modeling, Control and Simulation of an Autonomous Quadrotor.. 2017. url: https://github.com/yrlu/quadrotor (visited on 2017)].
 
 
-NOTE: 1- run Initial_conditions.m
+NOTE: 
+1- run Initial_conditions.m
+
       2- run the simulink file
+      
       3- run sim_drone_triangle.m
       
       
