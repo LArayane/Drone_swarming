@@ -16,7 +16,7 @@
 
 
 	NOTE: 
-	1- run Initial_conditions.m
+	  1- run Initial_conditions.m
 
       2- run the simulink file
       
