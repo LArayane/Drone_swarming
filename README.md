@@ -17,6 +17,5 @@
 		
 		
 		
-		![droneSwarming](https://user-images.githubusercontent.com/28091415/166105462-c61cbb97-ca0a-48ef-88eb-155d4a01f297.jpg)
+		![](Images/droneSwarming.png)
 		
-		![alt text](https://user-images.githubusercontent.com/28091415/166105462-c61cbb97-ca0a-48ef-88eb-155d4a01f297.jpg)
