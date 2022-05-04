@@ -17,9 +17,7 @@
 
 	NOTE: 
 	  1- run Initial_conditions.m
-
-      2- run the simulink file
-      
+      2- run the simulink file      
       3- run sim_drone_triangle.m
       
       
